@@ -177,3 +177,13 @@ Embedded Linux is used in embedded systems such as routers, televisions, industr
 The Linux boot mode can be switched between text mode (runlevel 3) and graphical mode (runlevel 5) by configuring system startup parameters.
 
 The **CLI** mode involves controlling the system using terminal commands, while the **GUI** mode uses a graphical interface with windows and menus. CLI is more flexible and precise, whereas GUI is more convenient for everyday use.
+
+---
+
+## Conclusion
+
+During this laboratory work, I studied the basic concepts of virtualization and virtual machines. I learned what a hypervisor is and understood the difference between Type 1 and Type 2 hypervisors, as well as their areas of application. Special attention was paid to the VirtualBox hypervisor, its main components, and capabilities.
+
+I also became familiar with the Linux operating system, its structure and features, including the role of the kernel and the use of different graphical interfaces. In addition, I learned about the main stages of installing Linux both in text mode and in a virtual machine environment.
+
+As a result of this laboratory work, I gained basic theoretical knowledge about modern operating systems and virtualization technologies, which will be useful for further study of operating systems and system administration.
