@@ -1,1 +1,0 @@
-# operating-systems-lab-1
