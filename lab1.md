@@ -46,6 +46,10 @@ Introduction to virtual machine environments and features of the Linux operating
 
 ---
 
+## Work Progress
+
+---
+
 ## Pre-lab Preparation
 
 ### Glossary of Basic English Terms (Virtual Environments)
