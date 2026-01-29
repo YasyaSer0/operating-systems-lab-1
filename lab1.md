@@ -25,7 +25,7 @@ Student of group **BIKS-33**
 
 ---
 
-**Kyiv — 2025**
+**Kyiv — 2026**
 
 ---
 
@@ -43,6 +43,15 @@ Introduction to virtual machine environments and features of the Linux operating
 ## Purpose
 1. To study hypervisors of different types and virtualization when working with operating systems.  
 2. To get familiar with the main types of modern operating systems and their basic capabilities.
+
+---
+
+## Equipment and Software Requirements
+
+1. An IBM PC–compatible personal computer.
+2. An operating system of the Windows family and the VirtualBox virtual machine (Oracle).
+3. GNU/Linux operating system (any distribution).
+4. The Cisco Networking Academy website (netacad.com) and its online Linux courses in English.
 
 ---
 
