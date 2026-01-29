@@ -115,16 +115,3 @@ If Linux is already installed in text mode, graphical environments can be instal
 To install **GNOME**, the following command is used:
 ```bash
 sudo apt install ubuntu-gnome-desktop
-
-To install **KDE**, the following command is used:
-```bash
-sudo apt install kde-standard
-
----
-
-### Graphical Interfaces Used in Linux Distributions (Variant 16)
-
-**KDE** is a modern and functional graphical desktop environment with a user-friendly interface and extensive customization options. It is often used in many Linux distributions as a full-featured working environment.
-
-**Fluxbox** is a lightweight and minimalist graphical environment that consumes minimal system resources. It is suitable for computers with limited hardware capabilities or for users who prefer simplicity.
-
