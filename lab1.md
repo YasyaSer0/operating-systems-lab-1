@@ -110,8 +110,8 @@ When installing Linux in text mode, the user selects the interface language and 
 
 ### Installing GNOME and KDE After Text-Mode Installation
 
-If Linux is already installed in text mode, graphical environments can be installed using a package manager.
+If Linux is already installed in text mode, graphical desktop environments can be installed using a package manager.
 
-To install **GNOME**, the following command is used:
-```bash
-sudo apt install ubuntu-gnome-desktop
+To install **GNOME**, the following command is used: `sudo apt install ubuntu-gnome-desktop`
+
+To install **KDE**, the following command is used: `sudo apt install kde-standard`
