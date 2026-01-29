@@ -120,6 +120,8 @@ To install **KDE**, the following command is used:
 ```bash
 sudo apt install kde-standard
 
+---
+
 ### Graphical Interfaces Used in Linux Distributions (Variant 16)
 
 **KDE** is a modern and functional graphical desktop environment with a user-friendly interface and extensive customization options. It is often used in many Linux distributions as a full-featured working environment.
