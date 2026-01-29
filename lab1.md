@@ -1,3 +1,35 @@
+# MINISTRY OF EDUCATION AND SCIENCE OF UKRAINE  
+## KYIV PROFESSIONAL COLLEGE OF COMMUNICATIONS  
+
+---
+
+# REPORT  
+## on Laboratory Work №1  
+### in the discipline "Operating Systems"
+
+---
+
+**Topic:**  
+Introduction to virtual machine environments and features of the Linux operating system
+
+---
+
+**Completed by:**  
+Student of group **BIKS-33**  
+**Serbina Yaroslava Viacheslavivna**
+
+---
+
+**Instructor:**  
+**Sushanova Viktoriia Serhiivna**
+
+---
+
+**Kyiv — 2025**
+
+---
+
+
 # Laboratory Work №1  
 ## Operating Systems
 
