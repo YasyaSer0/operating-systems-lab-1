@@ -123,3 +123,57 @@ To install **KDE**, the following command is used: `sudo apt install kde-standar
 **KDE** is a modern and functional graphical desktop environment that offers a user-friendly interface and extensive customization options. It is widely used in many Linux distributions as a full-featured working environment.
 
 **Fluxbox** is a lightweight and minimalist graphical environment that consumes very few system resources. It is suitable for computers with limited hardware capabilities or for users who prefer simplicity.
+
+---
+
+## Control Questions
+
+### 1. Comparison of Type 1 and Type 2 Hypervisors
+
+Type 1 hypervisors operate directly on the computer hardware without using a host operating system. They provide better performance and reliability, therefore they are most often used on servers and in corporate environments.
+
+Type 2 hypervisors are installed on top of an existing operating system and use its resources. This type of hypervisor is usually used on personal computers for learning, testing, or running multiple operating systems simultaneously.
+
+---
+
+### 2. GNU GPL Concept and Its Main Idea
+
+GNU GPL is a free software license that guarantees users the right to use, modify, and distribute software. The main concept of this license is that any modifications of the program code must also remain open and available to other users.
+
+---
+
+### 3. The Essence of Open Source Software
+
+Open source software provides free access to the source code. This allows users to study how a program works, modify it according to their needs, and improve it. This approach promotes transparency, security, and rapid software development.
+
+---
+
+### 4. Definition of a Distribution
+
+A distribution is a ready-made set of software based on the Linux kernel, which includes the kernel, system utilities, libraries, and usually a graphical environment. Distributions simplify the process of installing and using the Linux operating system.
+
+---
+
+### 5. System Administration Tasks Using Linux
+
+Using Linux, it is possible to perform server administration, user and access rights management, network configuration, data backup, system resource monitoring, and task automation using scripts.
+
+---
+
+### 6. Relationship Between Android and Linux
+
+The Android operating system is based on the Linux kernel. Linux provides Android with memory management, process management, and hardware resource control, while other Android components are adapted for mobile devices.
+
+---
+
+### 7. Embedded Linux Capabilities and Areas of Use
+
+Embedded Linux is used in embedded systems such as routers, televisions, industrial equipment, and other specialized devices. It provides stable operation, flexible configuration, and the ability to adapt to specific hardware requirements.
+
+---
+
+### 8. Switching Linux Boot Modes and Differences Between CLI and GUI
+
+The Linux boot mode can be switched between text mode (runlevel 3) and graphical mode (runlevel 5) by configuring system startup parameters.
+
+The **CLI** mode involves controlling the system using terminal commands, while the **GUI** mode uses a graphical interface with windows and menus. CLI is more flexible and precise, whereas GUI is more convenient for everyday use.
