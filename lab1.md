@@ -61,7 +61,7 @@ Introduction to virtual machine environments and features of the Linux operating
 
 ## Pre-lab Preparation
 
-### Glossary of Basic English Terms (Virtual Environments)
+### Glosssary of Basic English Terms (Virtual Environments)
 
 **Virtual Machine** — a software-based emulation of a physical computer that runs an operating system and applications.
 
