@@ -21,7 +21,7 @@ Student of group **BIKS-33**
 ---
 
 **Instructor:**  
-**Sushanova Viktoriia Serhiivna**
+**Sushanova Viktoriiaa Serhiivna**
 
 ---
 
