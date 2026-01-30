@@ -3,14 +3,14 @@
 
 ---
 
-# REPORT  
+# REPORT
 ## on Laboratory Work №1  
 ### in the discipline "Operating Systems"
 
 ---
 
 **Topic:**  
-Introduction to virtual machine environments and features of the Linux operating system
+Introduction to virtual machine environments and features of the Linux operating system 
 
 ---
 
